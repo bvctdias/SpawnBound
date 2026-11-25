@@ -9,9 +9,16 @@
 </p>
 
 <p align="center">
+  <strong><a href="https://jotave-uff.itch.io/spawnbound">Baixar o jogo no itch.io</a></strong> ·
+  <a href="https://youtu.be/g-T5OaWJfEE">Assistir ao teaser</a> ·
+  <a href="https://github.com/jotave-br/SpawnBound-final">Projeto completo no GitHub</a>
+</p>
+
+<p align="center">
   <a href="#como-jogar">Como jogar</a> ·
   <a href="#o-que-dá-para-fazer">O que dá para fazer</a> ·
   <a href="#um-mundo-diferente-a-cada-seed">Mundo gerado por seed</a> ·
+  <a href="#documentação">Documentação</a> ·
   <a href="#autores-e-créditos">Créditos</a>
 </p>
 
@@ -148,6 +155,13 @@ O ruído é calculado uma vez, quando a ilha nasce, e não a cada quadro. A seed
 - `assets`: sprites, imagens e áudio.
 - `tests`: os testes automáticos. Rode com `RUN_TESTS.bat` ou `python -m unittest discover -s tests`.
 
+## Documentação
+
+| Documento | O que você encontra | Versões |
+| --- | --- | --- |
+| **Game Design Document (GDD)** | As decisões de design da dupla, o ciclo de sobrevivência, a progressão entre as ilhas e o que mudou durante o desenvolvimento. | [PDF ilustrado](documentos/GDD-SpawnBound.pdf) · [Markdown](documentos/GDD-SpawnBound.md) |
+| **Detalhamento dos Game Objects** | Catálogo de personagens, recursos, construções e eventos da versão final, com seus estados, ações, atributos e relações no mundo. | [PDF](documentos/Game-Objects-SpawnBound.pdf) · [Markdown](documentos/Game-Objects-SpawnBound.md) |
+
 ## Inspirações
 
 O SpawnBound tem identidade própria, mas aprendeu com vários jogos:
@@ -166,4 +180,4 @@ Feito por **[João Vitor Battigaglia Fernandes](https://github.com/jotave-br)** 
 
 - **Power PPlay 2.0**, do IC-UFF, sob a licença MIT. A licença acompanha o código em `dependencias/PPlay/LICENSE.Power-PPlay.txt`.
 - **pygame-ce**, a biblioteca sobre a qual o PPlay funciona.
-- **Gravações de áudio** de terceiros, sob licenças Creative Commons. Os autores e as licenças estão em `assets/audio/CREDITOS.md`.
+- **Gravações de áudio** de terceiros, sob licenças Creative Commons. [Autores, adaptações e licenças dos áudios](assets/audio/CREDITOS.md).
