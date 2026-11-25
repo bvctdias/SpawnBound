@@ -124,7 +124,7 @@ O jogo guarda até três partidas em `saves/`. Pelo código, a pasta fica junto 
 Uma linha de oito objetivos, no canto da tela, guia o jogador da primeira madeira até o Guardião.
 
 <p align="center">
-  <img src="imagens/fluxograma.png" alt="Fluxograma: o laço da ilha, o laço de sobrevivência e a travessia até o Guardião" width="760">
+  <img src="documentos/images/fluxograma-progressao.png" alt="Fluxograma: o laço da ilha, o laço de sobrevivência e a travessia até o Guardião" width="760">
 </p>
 
 ## Um mundo diferente a cada seed
