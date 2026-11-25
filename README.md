@@ -161,6 +161,7 @@ O ruído é calculado uma vez, quando a ilha nasce, e não a cada quadro. A seed
 | --- | --- | --- |
 | **Game Design Document (GDD)** | As decisões de design da dupla, o ciclo de sobrevivência, a progressão entre as ilhas e o que mudou durante o desenvolvimento. | [PDF ilustrado](documentos/GDD-SpawnBound.pdf) · [Markdown](documentos/GDD-SpawnBound.md) |
 | **Detalhamento dos Game Objects** | Catálogo de personagens, recursos, construções e eventos da versão final, com seus estados, ações, atributos e relações no mundo. | [PDF](documentos/Game-Objects-SpawnBound.pdf) · [Markdown](documentos/Game-Objects-SpawnBound.md) |
+| **Decisões técnicas** | Como a dupla usou o PPlay, o pygame e o código próprio em Python para desenhar a ilha e definir as regras do jogo. | [PPlay, pygame e Python no SpawnBound](decisoes.md) |
 
 ## Inspirações
 
