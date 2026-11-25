@@ -1,0 +1,114 @@
+{
+  "sheet": "explorer.png",
+  "unarmed_sheet": "explorer_unarmed.png",
+  "frame_size": [
+    40,
+    40
+  ],
+  "pivot": [
+    20,
+    34
+  ],
+  "directions": [
+    [
+      -1,
+      -1
+    ],
+    [
+      0,
+      -1
+    ],
+    [
+      1,
+      -1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      -1,
+      1
+    ],
+    [
+      -1,
+      0
+    ]
+  ],
+  "clips": {
+    "idle": {
+      "start": 0,
+      "count": 4,
+      "fps": 3,
+      "loop": true
+    },
+    "walk": {
+      "start": 4,
+      "count": 8,
+      "fps": 12,
+      "loop": true
+    },
+    "step_up": {
+      "start": 12,
+      "count": 6,
+      "fps": 12,
+      "loop": false
+    },
+    "step_down": {
+      "start": 18,
+      "count": 6,
+      "fps": 12,
+      "loop": false
+    },
+    "jump": {
+      "start": 24,
+      "count": 8,
+      "fps": 16,
+      "loop": false
+    },
+    "strike": {
+      "start": 32,
+      "count": 8,
+      "fps": 20,
+      "loop": false
+    },
+    "swim": {
+      "start": 40,
+      "count": 8,
+      "fps": 7,
+      "loop": true
+    },
+    "hurt": {
+      "start": 48,
+      "count": 4,
+      "fps": 12,
+      "loop": false
+    }
+  },
+  "upgrades": {
+    "stone_pickaxe": "stone_pickaxe.png",
+    "copper_pickaxe": "copper_pickaxe.png",
+    "quartz_pickaxe": "quartz_pickaxe.png",
+    "axe": "axe.png",
+    "stone_axe": "stone_axe.png",
+    "copper_axe": "copper_axe.png",
+    "quartz_axe": "quartz_axe.png",
+    "sickle": "sickle.png",
+    "stone_sickle": "stone_sickle.png",
+    "copper_sickle": "copper_sickle.png",
+    "quartz_sickle": "quartz_sickle.png",
+    "sword": "sword.png",
+    "stone_sword": "stone_sword.png",
+    "copper_sword": "copper_sword.png",
+    "quartz_sword": "quartz_sword.png",
+    "fishing_rod": "fishing_rod.png"
+  }
+}

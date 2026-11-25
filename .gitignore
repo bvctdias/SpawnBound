@@ -1,0 +1,19 @@
+AGENTS.md
+PROJECT_CONTEXT.md
+HANDOFF.md
+/docs/
+/gdd/
+/artifacts/
+/bruno dias/
+/scripts/
+/.vscode/
+/dependencias/python/
+/cache/
+/saves/
+/build/
+/dist/
+/itch/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store

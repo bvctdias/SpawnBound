@@ -1,0 +1,330 @@
+{
+  "schema_version": 1,
+  "title": "SpawnBound - arte nativa 32 x 16 gerada por codigo",
+  "tile_top": [
+    32,
+    16
+  ],
+  "player_atlas": "player/animation.json",
+  "sprites": {
+    "bridge_wood": {
+      "file": "sprites/bridge_wood.png",
+      "canvas": [
+        32,
+        16
+      ],
+      "pivot": [
+        16,
+        8
+      ]
+    },
+    "bush_empty": {
+      "file": "sprites/bush_empty.png",
+      "canvas": [
+        48,
+        32
+      ],
+      "pivot": [
+        24,
+        28
+      ]
+    },
+    "bush_pink": {
+      "file": "sprites/bush_pink.png",
+      "canvas": [
+        48,
+        32
+      ],
+      "pivot": [
+        24,
+        28
+      ]
+    },
+    "bush_purple": {
+      "file": "sprites/bush_purple.png",
+      "canvas": [
+        48,
+        32
+      ],
+      "pivot": [
+        24,
+        28
+      ]
+    },
+    "bush_red": {
+      "file": "sprites/bush_red.png",
+      "canvas": [
+        48,
+        32
+      ],
+      "pivot": [
+        24,
+        28
+      ]
+    },
+    "cactus_column": {
+      "file": "sprites/cactus_column.png",
+      "canvas": [
+        42,
+        48
+      ],
+      "pivot": [
+        21,
+        45
+      ]
+    },
+    "cactus_paddle": {
+      "file": "sprites/cactus_paddle.png",
+      "canvas": [
+        42,
+        48
+      ],
+      "pivot": [
+        21,
+        45
+      ]
+    },
+    "camp_tent": {
+      "file": "sprites/camp_tent.png",
+      "canvas": [
+        48,
+        40
+      ],
+      "pivot": [
+        24,
+        28
+      ]
+    },
+    "cave_entry": {
+      "file": "sprites/cave_entry.png",
+      "canvas": [
+        48,
+        48
+      ],
+      "pivot": [
+        24,
+        38
+      ]
+    },
+    "cave_exit": {
+      "file": "sprites/cave_exit.png",
+      "canvas": [
+        48,
+        48
+      ],
+      "pivot": [
+        24,
+        38
+      ]
+    },
+    "floor_wood": {
+      "file": "sprites/floor_wood.png",
+      "canvas": [
+        32,
+        16
+      ],
+      "pivot": [
+        16,
+        8
+      ]
+    },
+    "grass_forest": {
+      "file": "sprites/grass_forest.png",
+      "canvas": [
+        32,
+        16
+      ],
+      "pivot": [
+        16,
+        8
+      ]
+    },
+    "grass_meadow": {
+      "file": "sprites/grass_meadow.png",
+      "canvas": [
+        32,
+        16
+      ],
+      "pivot": [
+        16,
+        8
+      ]
+    },
+    "grass_pebbles": {
+      "file": "sprites/grass_pebbles.png",
+      "canvas": [
+        32,
+        16
+      ],
+      "pivot": [
+        16,
+        8
+      ]
+    },
+    "grass_tall": {
+      "file": "sprites/grass_tall.png",
+      "canvas": [
+        32,
+        16
+      ],
+      "pivot": [
+        16,
+        8
+      ]
+    },
+    "ground_cave": {
+      "file": "sprites/ground_cave.png",
+      "canvas": [
+        32,
+        16
+      ],
+      "pivot": [
+        16,
+        8
+      ]
+    },
+    "ground_dry": {
+      "file": "sprites/ground_dry.png",
+      "canvas": [
+        32,
+        16
+      ],
+      "pivot": [
+        16,
+        8
+      ]
+    },
+    "log_northeast": {
+      "file": "sprites/log_northeast.png",
+      "canvas": [
+        64,
+        40
+      ],
+      "pivot": [
+        32,
+        28
+      ]
+    },
+    "log_northwest": {
+      "file": "sprites/log_northwest.png",
+      "canvas": [
+        64,
+        40
+      ],
+      "pivot": [
+        32,
+        28
+      ]
+    },
+    "player_idle": {
+      "file": "sprites/player_idle.png",
+      "canvas": [
+        40,
+        40
+      ],
+      "pivot": [
+        20,
+        34
+      ]
+    },
+    "rock_cave": {
+      "file": "sprites/rock_cave.png",
+      "canvas": [
+        48,
+        32
+      ],
+      "pivot": [
+        24,
+        28
+      ]
+    },
+    "rock_surface": {
+      "file": "sprites/rock_surface.png",
+      "canvas": [
+        48,
+        32
+      ],
+      "pivot": [
+        24,
+        28
+      ]
+    },
+    "rock_surface_moss": {
+      "file": "sprites/rock_surface_moss.png",
+      "canvas": [
+        48,
+        32
+      ],
+      "pivot": [
+        24,
+        28
+      ]
+    },
+    "shelter": {
+      "file": "sprites/shelter.png",
+      "canvas": [
+        72,
+        96
+      ],
+      "pivot": [
+        36,
+        84
+      ]
+    },
+    "tree_autumn_gold": {
+      "file": "sprites/tree_autumn_gold.png",
+      "canvas": [
+        64,
+        80
+      ],
+      "pivot": [
+        32,
+        76
+      ]
+    },
+    "tree_autumn_red": {
+      "file": "sprites/tree_autumn_red.png",
+      "canvas": [
+        64,
+        80
+      ],
+      "pivot": [
+        32,
+        76
+      ]
+    },
+    "tree_broadleaf": {
+      "file": "sprites/tree_broadleaf.png",
+      "canvas": [
+        64,
+        80
+      ],
+      "pivot": [
+        32,
+        76
+      ]
+    },
+    "tree_pine_dark": {
+      "file": "sprites/tree_pine_dark.png",
+      "canvas": [
+        64,
+        80
+      ],
+      "pivot": [
+        32,
+        76
+      ]
+    },
+    "tree_pine_light": {
+      "file": "sprites/tree_pine_light.png",
+      "canvas": [
+        64,
+        80
+      ],
+      "pivot": [
+        32,
+        76
+      ]
+    }
+  }
+}
